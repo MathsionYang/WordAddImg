@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\bin\x64\Release\WordAddImg.exe.config
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\bin\x64\Release\WordAddImg.exe
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\bin\x64\Release\WordAddImg.pdb
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\obj\x64\Release\WordAddImg.WordAddImg.resources
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\obj\x64\Release\WordAddImg.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\obj\x64\Release\WordAddImg.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\obj\x64\Release\WordAddImg.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\obj\x64\Release\WordAddImg.exe
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\obj\x64\Release\WordAddImg.pdb
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\obj\x64\Release\WordAddImg.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\bin\x64\Release\Microsoft.Office.Interop.Word.dll
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\bin\x64\Release\office.dll
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\bin\x64\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\bin\x64\Release\stdole.dll
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\obj\x64\Release\WordAddImg.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WordTest\WordAddImg\WordAddImg\obj\x64\Release\WordAddImg.csprojAssemblyReference.cache
